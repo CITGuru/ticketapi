@@ -4,7 +4,7 @@ The repo for the ticketapi code from the future web app series.
 
 # Note
 
-This is built on Python3 and Django2.0
+This is built on Python3, Django2.0 and Django Rest Framework
 
 # Tutorial
 
